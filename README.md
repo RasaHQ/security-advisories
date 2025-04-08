@@ -1,2 +1,2 @@
-# rasa-pro-security-advisories
-Security advisories for Rasa Pro will be published here.
+# Security Advisories
+Security advisories for Rasa products will be published here.
